@@ -10,7 +10,7 @@ Our project has the potential to include a virtual reality (VR) visualization of
 
 
 ## 🔗 APP Link
-[👉  App Link](https://drive.google.com/file/d/1-yx9VLJ5Lg4oDqOU7Ec7BLIQqUphYqhx/view?usp=share_link)
+[👉  App Link](https://drive.google.com/file/d/1eVQUuViSXNf5wZafR9k2vB70B4rw8RR2/view?usp=drive_link)
 
 ## App Instructions
 1. On clicking of planet, focus of view changed to that planet, Zoom view is open.
